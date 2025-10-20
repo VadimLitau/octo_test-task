@@ -14,9 +14,9 @@ import UiButton from '@/components/Ui/UiButton.vue'
         </div>
       </div>
       <picture>
-        <source srcset="../../assets/images/preferencs-1-mob.png" media="(max-width: 420px)">
-        <source srcset="../../assets/images/preferencs-1-tab.png" media="(max-width: 768px)">
-        <img src="../../assets/images/preferencs-1.png" alt="">
+        <source srcset="/images/preferencs-1-mob.png" media="(max-width: 420px)">
+        <source srcset="/images/preferencs-1-tab.png" media="(max-width: 768px)">
+        <img src="/images/preferencs-1.png" alt="">
       </picture>
     </div>
   </div>

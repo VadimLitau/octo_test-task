@@ -13,7 +13,7 @@
    width: 100%;
    background: 
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-    url('../assets/images/hero_bg.png') left center/cover no-repeat;
+    url('/images/hero_bg.png') left center/cover no-repeat;
   display: flex;
   justify-content: center;
   padding-top: 120px;

@@ -24,7 +24,7 @@ const bgStyle = computed(() => {
     <div class="image-wrap" :style="bgStyle">
       <img 
         v-if="item.image && !item.bg_color" 
-        :src="`/src/assets/images/${item.image}`" 
+        :src="`/images/${item.image}`" 
         :alt="item.title"
       />
     </div>
