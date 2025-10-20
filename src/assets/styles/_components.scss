@@ -1,0 +1,13 @@
+@use "@/assets/styles/variables" as *;
+
+.bg-primary{
+  background: $primary;
+}
+
+.bg-secondary{
+  background: $secondary;
+}
+
+.content{
+  max-width: 1140px;
+}
